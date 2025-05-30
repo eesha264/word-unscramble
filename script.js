@@ -1,4 +1,26 @@
-const wordList = ["apple", "banana", "orange", "grape", "melon", "kiwi", "cherry", "peach"];
+const wordList = [
+  "mumbai",
+  "delhi",
+  "kolkata",
+  "chennai",
+  "bengaluru",
+  "hyderabad",
+  "ahmedabad",
+  "pune",
+  "jaipur",
+  "lucknow",
+  "kanpur",
+  "nagpur",
+  "visakhapatnam",
+  "bhopal",
+  "patna",
+  "vadodara",
+  "ludhiana",
+  "agra",
+  "nashik",
+  "faridabad"
+];
+
 let currentWord = "";
 let scrambled = "";
 let score = 0;
