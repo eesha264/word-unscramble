@@ -1,0 +1,47 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: #f0f4f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+#scrambled-word {
+  font-size: 2em;
+  margin: 20px 0;
+  font-weight: bold;
+}
+
+input {
+  padding: 10px;
+  font-size: 1em;
+  width: 60%;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+#feedback {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+#score {
+  margin-top: 20px;
+  font-size: 1.2em;
+  color: green;
+}
