@@ -25,6 +25,7 @@ Clean, responsive UI
 (Replace with your actual GitHub Pages link)
 
 🛠️ Tech Stack
+
 HTML for structure
 
 CSS for styling
