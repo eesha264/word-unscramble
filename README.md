@@ -32,6 +32,6 @@ HTML for structure
 
 CSS for styling
 
-JavaScript for game logic
+JavaScript for game logic 
 
 
